@@ -21,11 +21,17 @@ Contribuer au projet open source **Pygame** en explorant le code source, en ajou
 ## ⚙️ Installation
 ```bash
 git clone git@github.com:NGANAMODEIJunior/pygame-contrib-projet-tuteure.git
+
 cd pygame-contrib-projet-tuteure
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
+
 python examples/test_quelette.py
+
 
 ## Lien vers le projet original
 https://github.com/pygame/pygame
